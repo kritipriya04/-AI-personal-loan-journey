@@ -1,0 +1,10 @@
+{
+  "description": "Streamline personal loan applications with a secure, user-friendly interface designed for Indian fintech users to easily submit essential financial details.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
